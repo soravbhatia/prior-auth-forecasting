@@ -1,0 +1,51 @@
+auth_id,member_name,member_id,provider_name,provider_npi,service_category,urgency,submission_date,decision_date,decision,days_to_decision,auth_volume_that_week
+PA001,Mickey Mouse,M001,Dr. Donald Duck MD,1234567890,Physical Therapy,Routine,2023-01-02,2023-01-05,Approved,3,42
+PA002,Minnie Mouse,M002,Dr. Goofy Wilson MD,1234567891,MRI,Urgent,2023-01-02,2023-01-03,Approved,1,42
+PA003,Donald Duck,M003,Dr. Pluto Smith MD,1234567892,Specialist Visit,Routine,2023-01-03,2023-01-06,Approved,3,42
+PA004,Daisy Duck,M004,Dr. Donald Duck MD,1234567890,Home Health,Routine,2023-01-03,2023-01-07,Denied,4,42
+PA005,Goofy Goof,M005,Dr. Goofy Wilson MD,1234567891,Durable Medical Equipment,Routine,2023-01-04,2023-01-08,Approved,4,42
+PA006,Pluto Dog,M006,Dr. Pluto Smith MD,1234567892,Outpatient Surgery,Urgent,2023-01-04,2023-01-05,Approved,1,42
+PA007,Bambi Deer,M007,Dr. Donald Duck MD,1234567890,Physical Therapy,Routine,2023-01-05,2023-01-09,Approved,4,42
+PA008,Dumbo Elephant,M008,Dr. Goofy Wilson MD,1234567891,MRI,Routine,2023-01-05,2023-01-10,Approved,5,42
+PA009,Simba Lion,M009,Dr. Pluto Smith MD,1234567892,Specialist Visit,Urgent,2023-01-06,2023-01-07,Approved,1,42
+PA010,Nemo Fish,M010,Dr. Donald Duck MD,1234567890,Home Health,Routine,2023-01-06,2023-01-11,Approved,5,42
+PA011,Dory Fish,M011,Dr. Goofy Wilson MD,1234567891,Physical Therapy,Routine,2023-01-09,2023-01-12,Approved,3,55
+PA012,Woody Cowboy,M012,Dr. Pluto Smith MD,1234567892,Durable Medical Equipment,Routine,2023-01-09,2023-01-13,Denied,4,55
+PA013,Buzz Lightyear,M013,Dr. Donald Duck MD,1234567890,Outpatient Surgery,Urgent,2023-01-10,2023-01-11,Approved,1,55
+PA014,Jessie Cowgirl,M014,Dr. Goofy Wilson MD,1234567891,MRI,Routine,2023-01-10,2023-01-14,Approved,4,55
+PA015,Rex Dinosaur,M015,Dr. Pluto Smith MD,1234567892,Specialist Visit,Routine,2023-01-11,2023-01-15,Approved,4,55
+PA016,Slinky Dog,M016,Dr. Donald Duck MD,1234567890,Physical Therapy,Routine,2023-01-11,2023-01-16,Approved,5,55
+PA017,Hamm Pig,M017,Dr. Goofy Wilson MD,1234567891,Home Health,Urgent,2023-01-12,2023-01-13,Approved,1,55
+PA018,Bullseye Horse,M018,Dr. Pluto Smith MD,1234567892,Outpatient Surgery,Routine,2023-01-12,2023-01-17,Denied,5,55
+PA019,Lotso Bear,M019,Dr. Donald Duck MD,1234567890,MRI,Routine,2023-01-13,2023-01-18,Approved,5,55
+PA020,Forky Spork,M020,Dr. Goofy Wilson MD,1234567891,Specialist Visit,Routine,2023-01-13,2023-01-19,Approved,6,55
+PA021,Elsa Frozen,M021,Dr. Pluto Smith MD,1234567892,Physical Therapy,Urgent,2023-01-16,2023-01-17,Approved,1,61
+PA022,Anna Frozen,M022,Dr. Donald Duck MD,1234567890,Durable Medical Equipment,Routine,2023-01-16,2023-01-20,Approved,4,61
+PA023,Olaf Snowman,M023,Dr. Goofy Wilson MD,1234567891,Home Health,Routine,2023-01-17,2023-01-21,Approved,4,61
+PA024,Sven Reindeer,M024,Dr. Pluto Smith MD,1234567892,MRI,Routine,2023-01-17,2023-01-22,Denied,5,61
+PA025,Kristoff Ice,M025,Dr. Donald Duck MD,1234567890,Outpatient Surgery,Urgent,2023-01-18,2023-01-19,Approved,1,61
+PA026,Moana Ocean,M026,Dr. Goofy Wilson MD,1234567891,Specialist Visit,Routine,2023-01-18,2023-01-23,Approved,5,61
+PA027,Maui Demigod,M027,Dr. Pluto Smith MD,1234567892,Physical Therapy,Routine,2023-01-19,2023-01-24,Approved,5,61
+PA028,Tamatoa Crab,M028,Dr. Donald Duck MD,1234567890,Home Health,Routine,2023-01-19,2023-01-25,Approved,6,61
+PA029,Merida Brave,M029,Dr. Goofy Wilson MD,1234567891,MRI,Urgent,2023-01-20,2023-01-21,Approved,1,61
+PA030,Rapunzel Hair,M030,Dr. Pluto Smith MD,1234567892,Specialist Visit,Routine,2023-01-20,2023-01-26,Denied,6,61
+PA031,Flynn Rider,M031,Dr. Donald Duck MD,1234567890,Physical Therapy,Routine,2023-01-23,2023-01-27,Approved,4,48
+PA032,Pascal Chameleon,M032,Dr. Goofy Wilson MD,1234567891,Durable Medical Equipment,Routine,2023-01-23,2023-01-28,Approved,5,48
+PA033,Maximus Horse,M033,Dr. Pluto Smith MD,1234567892,Outpatient Surgery,Urgent,2023-01-24,2023-01-25,Approved,1,48
+PA034,Mulan Hua,M034,Dr. Donald Duck MD,1234567890,Home Health,Routine,2023-01-24,2023-01-29,Approved,5,48
+PA035,Mushu Dragon,M035,Dr. Goofy Wilson MD,1234567891,MRI,Routine,2023-01-25,2023-01-30,Approved,5,48
+PA036,Cri-Kee Cricket,M036,Dr. Pluto Smith MD,1234567892,Specialist Visit,Routine,2023-01-25,2023-01-31,Denied,6,48
+PA037,Li Shang General,M037,Dr. Donald Duck MD,1234567890,Physical Therapy,Urgent,2023-01-26,2023-01-27,Approved,1,48
+PA038,Grandmother Willow,M038,Dr. Goofy Wilson MD,1234567891,Home Health,Routine,2023-01-26,2023-02-01,Approved,6,48
+PA039,Pocahontas Wind,M039,Dr. Pluto Smith MD,1234567892,Outpatient Surgery,Routine,2023-01-27,2023-02-02,Approved,6,48
+PA040,John Smith Explorer,M040,Dr. Donald Duck MD,1234567890,MRI,Routine,2023-01-27,2023-02-03,Approved,7,48
+PA041,Ariel Mermaid,M041,Dr. Goofy Wilson MD,1234567891,Physical Therapy,Routine,2023-01-30,2023-02-03,Approved,4,67
+PA042,Sebastian Crab,M042,Dr. Pluto Smith MD,1234567892,Specialist Visit,Urgent,2023-01-30,2023-01-31,Approved,1,67
+PA043,Flounder Fish,M043,Dr. Donald Duck MD,1234567890,Durable Medical Equipment,Routine,2023-01-31,2023-02-05,Approved,5,67
+PA044,Ursula SeaWitch,M044,Dr. Goofy Wilson MD,1234567891,Home Health,Routine,2023-01-31,2023-02-06,Denied,6,67
+PA045,Scuttle Seagull,M045,Dr. Pluto Smith MD,1234567892,MRI,Routine,2023-02-01,2023-02-07,Approved,6,67
+PA046,Aladdin Street,M046,Dr. Donald Duck MD,1234567890,Outpatient Surgery,Urgent,2023-02-01,2023-02-02,Approved,1,67
+PA047,Jasmine Princess,M047,Dr. Goofy Wilson MD,1234567891,Physical Therapy,Routine,2023-02-02,2023-02-07,Approved,5,67
+PA048,Genie Lamp,M048,Dr. Pluto Smith MD,1234567892,Specialist Visit,Routine,2023-02-02,2023-02-08,Approved,6,67
+PA049,Iago Parrot,M049,Dr. Donald Duck MD,1234567890,Home Health,Routine,2023-02-03,2023-02-09,Denied,6,67
+PA050,Jafar Villain,M050,Dr. Goofy Wilson MD,1234567891,MRI,Urgent,2023-02-03,2023-02-04,Approved,1,67
